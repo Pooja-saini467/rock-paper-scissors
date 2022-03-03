@@ -20,6 +20,8 @@
 
 ## Demo
 
+https://user-images.githubusercontent.com/90523453/156638594-a903d395-f1c0-4fb0-85b8-ffff5455cffc.mp4
+
 ## Live Link
 - Pooja-saini467(https://pooja-saini467.github.io/rock-paper-scissors/)
 
