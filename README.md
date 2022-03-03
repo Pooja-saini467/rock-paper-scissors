@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/90523453/156638594-a903d395-f1c0-4fb0-
 
 ## Author
 - Website Url
-- pooja saini ()
+- pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-html5-activity-6905232767282413568-6o53)
 - Twitter url
 - @Pooja96490259(https://twitter.com/home)
 
